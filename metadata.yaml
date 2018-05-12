@@ -1,0 +1,29 @@
+_repo: Spiritual-Life-and-the-Word-of-God_14026
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swedenborg, Emanuel
+    birthdate: 1688
+    deathdate: 1772
+    gutenberg_agent_id: '3899'
+    url: http://www.gutenberg.org/2009/agents/3899
+    wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
+description: ''
+gutenberg_issued: '2004-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual life'
+- !lcsh 'Ten commandments'
+- !lcsh 'Word of God (Christian theology)'
+- !lcc 'BX'
+title: Spiritual Life and the Word of God
+url: http://www.gutenberg.org/ebooks/14026
